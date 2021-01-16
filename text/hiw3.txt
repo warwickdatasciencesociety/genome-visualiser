@@ -1,0 +1,2 @@
+The lines on the SnP track show sites that have a minor allele frequency of at least 1% and are mapped to a single location in the reference genome assembly
+The highlighted areas on the CpG island are where there is a GC content of higher than 50% for greater than 200bp. The red line on the chromosome highlights the area in which the disease is located, and what you are viewing on the tracks is data within the highlighted region.

@@ -1,0 +1,8 @@
+CpG Islands are important because they represent areas of the 
+         genome that have for some reason been protected from the mutating 
+         properties of methylation through evolutionary time (which tend to 
+         change the G in CpG pairs to an A). Often, they point to the presence 
+         of an important piece of intergenic DNA, such as that found in the 
+         promoter regions of genes where transcription factors bind. . In cancers, 
+         loss of expression of genes occurs about 10 times more frequently by hypermethylation
+         of promoter CpG islands than by mutations.

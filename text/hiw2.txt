@@ -1,0 +1,1 @@
+From this location it is then sent to the UCSC genome browser where it collects the SnP and CpG data for that location before the programme visualises the SnP and CpG island data using GViz a Bioconductor package for R.   

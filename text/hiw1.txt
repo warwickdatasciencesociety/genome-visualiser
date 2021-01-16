@@ -1,0 +1,1 @@
+Once a disease has been selected and the run button is pressed this is connected to a spreadsheet which contains information about where to find this disease within our genes. The information on the spreadsheet was collected from the National Center for Biotechnology.
